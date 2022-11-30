@@ -1,2 +1,2 @@
-# Python_2022_60_Days_Python
+# Python_2022
 Basic to Advance Python 
